@@ -1,3 +1,6 @@
+## 声明
+> 此项目为深圳大学卓越工程师训练营STM32系列大作业，为本人于2025年7月14日内独立完成。使用的开发板为本人设计，开源在OSHWhub平台上，开源地址：[https://oshwhub.com/water_bros/feng-biao-bei-gd32f470zgt6-kai-fa-ban](https://oshwhub.com/water_bros/feng-biao-bei-gd32f470zgt6-kai-fa-ban)<br>下为本作业的系统文档，如有勘误请及时指出，欢迎交流！
+---
 # 基于GD32F470的简易四则运算计算器设计
 
 ## 一、系统总体设计
